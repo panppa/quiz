@@ -176,5 +176,6 @@ public class Main {
             }
         }
         System.out.println("Você acertou "+contadorAcerto+" Respostas e errou "+ contadorErro+"\n");
+        entrada.close();
     }
 }
